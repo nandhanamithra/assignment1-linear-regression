@@ -31,7 +31,7 @@ The code and the output along with graph are given below.
 ![Linear Regression Graph](output/graph.png)
 
 ## Final Answer
-The Simple Regression Model is **y = 0.244*x + 0.02**  
+The Simple Regression Model is **y = (0.244)x + 0.02**  
 And for 55N Load the respective Extension is 13.44 mm
 
 # What I Learned
