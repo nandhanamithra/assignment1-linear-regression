@@ -14,8 +14,8 @@ And, implementation of the same is done using python. The code is saved in the a
 The code and the output along with graph are given below.
 
 Code
-
+output/code.png
 Output 
-
+output/output.png
 Linear Regression Graph
-
+output/graph.png
