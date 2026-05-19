@@ -10,14 +10,14 @@ Below,
 2. Representation using y=mx+c
 3. Prediction of Extension in mm at Load 55 N
 
-And, implementation of the same is done using python. The code is saved in the assignment1-linear-regression/assigment along with the csv file containing the data and the code.
+And, implementation of the same is done using python. The code is saved in the 'assignment1-linear-regression/assigment/' along with the csv file containing the data and the code.
 The code and the output along with graph are given below.
 
 Code
-output/code.png
+'output/code.png'
 
 Output 
-output/output.png
+'output/output.png'
 
 Linear Regression Graph
-output/graph.png
+'output/graph.png'
