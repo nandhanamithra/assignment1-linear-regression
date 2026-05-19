@@ -1,4 +1,4 @@
-# Assignment1-linear-regression
+# Assignment 1-linear-regression
 Assignment 1 about Linear Regression submitted by Mithra Nandhana B A. 
 
 ## Problem Statement
@@ -18,6 +18,7 @@ Below,
 
 
 And, implementation of the same is done using python. The code is saved in the `assignment1-linear-regression/assignment/` along with the csv file containing the data and the code.
+
 The code and the output along with graph are given below.
 
 ## *Code*
